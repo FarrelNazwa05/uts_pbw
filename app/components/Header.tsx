@@ -1,4 +1,4 @@
-// components/atoms/HeaderText.tsx
+// components/HeaderText.tsx
 import React from "react";
 
 // Tipe properti untuk komponen HeaderText
