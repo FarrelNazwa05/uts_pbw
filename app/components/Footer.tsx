@@ -1,4 +1,4 @@
-// components/organisms/Footer.tsx
+// components/Footer.tsx
 import React from "react";
 
 // Tipe properti untuk komponen Footer
