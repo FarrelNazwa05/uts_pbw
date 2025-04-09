@@ -1,4 +1,4 @@
-// atoms/Logo.tsx
+// components/Logo.tsx
 import React from "react";
 
 // Tipe properti untuk komponen Logo
